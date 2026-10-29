@@ -1,0 +1,1 @@
+# Task10-NumPy-Indexing-and-Slicing
